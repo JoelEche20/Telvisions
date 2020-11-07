@@ -1,0 +1,13 @@
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\bin\Debug\netcoreapp3.1\Televisions.exe
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\bin\Debug\netcoreapp3.1\Televisions.deps.json
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\bin\Debug\netcoreapp3.1\Televisions.runtimeconfig.json
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\bin\Debug\netcoreapp3.1\Televisions.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\bin\Debug\netcoreapp3.1\Televisions.dll
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\bin\Debug\netcoreapp3.1\Televisions.pdb
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.AssemblyInfo.cs
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.dll
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.pdb
+C:\Users\Joel\Desktop\ArquiSoft\Televisions\Televisions\obj\Debug\netcoreapp3.1\Televisions.genruntimeconfig.cache
